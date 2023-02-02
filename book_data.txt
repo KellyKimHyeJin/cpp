@@ -1,0 +1,78 @@
+Command: add
+The Last Lecture
+Randy Pausch
+2008
+Non-fiction
+Command: displayBooks
+Command: add
+Justice: What's The Right Thing To Do?
+Michael J. Sandel
+2009
+Non-fiction
+Command: displayBooks
+Command: add
+Just Us
+Claudia Rankine
+2020
+Non-fiction
+Command: displayBooks
+Command: add
+A Beautiful Crime
+Christopher Bollen
+1998
+Novel
+Command: displayBooks
+Command: addBookAt 1
+The Boy in the Field
+Margot Livesey
+2020
+Novel
+Command: displayBooks
+Command: removeBook 3
+Command: displayBooks
+Command: add
+Caste: The Origins of Our Discontents
+Isabel Wilkerson
+2020
+Non-fiction
+Command: displayBooks
+Command: add
+The Cold Millions
+Jess Walter
+2020
+Novel
+Command: displayBooks
+Command: add
+Deacon King Kong
+James McBride
+2020
+Novel
+Command: displayBooks
+Command: addBookAt 5
+Intimations
+Zadie Smith
+2020
+Essay
+Command: displayBooks
+Command: addBookAt 10
+The Invisible Life of Addie LaRue
+V.E. Schwab
+2020
+Essay
+Command: displayBooks
+Command: removeBook 2
+Command: displayBooks
+Command: addBookAt 5
+Less is More: How Degrowth will Save the World
+Jason Hickel and Heinemann
+2020
+Economy
+Command: displayBooks
+Command: addBookAt 1
+Stories of Your Life and Others
+Ted Chiang
+2002
+Sicience Fiction
+Command: displayBooks
+Command: findBook 6
+Command: findBook 2
